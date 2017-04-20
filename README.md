@@ -1,4 +1,7 @@
-# test coverage for  [slack-client (v2.0.6)](https://github.com/slackhq/node-slack-client#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-slack-client.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-slack-client) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-slack-client.svg)](https://travis-ci.org/npmtest/node-npmtest-slack-client)
+# npmtest-slack-client
+
+#### basic test coverage for  [slack-client (v2.0.6)](https://github.com/slackhq/node-slack-client#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-slack-client.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-slack-client) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-slack-client.svg)](https://travis-ci.org/npmtest/node-npmtest-slack-client)
+
 #### A library for creating a Slack client
 
 [![NPM](https://nodei.co/npm/slack-client.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/slack-client)
